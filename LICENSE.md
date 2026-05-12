@@ -1,4 +1,4 @@
-#  
+#  smart Workflow for Obsidian for macOS - focus mode and dark mode is the best Obsidian for macOS workflow, featuring focus mode and dark mode. Safe, efficient, and optimized for
 
 
 
